@@ -1,0 +1,19 @@
+#gameCanvas {
+    border: 2px solid black;
+    background-color: lightblue;
+  }
+  
+
+  .restart-btn {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-size: 13px;
+    cursor: pointer;
+    position: absolute;
+    margin-top: 475px ;
+    margin-left: 10px;
+    }
+
